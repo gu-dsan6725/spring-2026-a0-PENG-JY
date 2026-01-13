@@ -101,6 +101,7 @@ You should see a detailed response explaining the importance of fast language mo
 
 To receive full credit (10 points), submit the `output.txt` file that was generated when you ran the script.
 
+
 ## Additional Resources
 
 - [Groq Documentation](https://console.groq.com/docs)
